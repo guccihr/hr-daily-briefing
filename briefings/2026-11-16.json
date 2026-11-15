@@ -2,38 +2,38 @@
  "date": "2026-11-16",
  "generated": {
   "model": "gemma3:12b (GitHub Actions)",
-  "at": "2026-11-15T15:47:15.239Z"
+  "at": "2026-11-15T21:41:35.421Z"
  },
  "ko": {
   "news": [
    {
     "title": "Job applicants say they are using AI to discover, investigate companies",
-    "summary": "구직자들이 기업 정보를 조사하기 위해 AI를 사용하고 있으며, **기업에 대한 부정적인 정보**를 인지한 경우 50% 이상이 지원을 포기했습니다. **AI 활용에 대한 우려**를 고려해야 합니다.",
-    "takeaway": "지원자들의 온라인 평판 관리 및 채용 과정에서의 투명성을 강화하여 AI를 통한 부정적인 정보로 인한 지원 포기를 방지해야 합니다.",
+    "summary": "구직자들이 회사에 대한 정보를 얻기 위해 AI를 사용하고 있으며, **AI를 통해 부정적인 정보를 얻은 경우 50% 이상이 지원을 포기**했습니다.",
+    "takeaway": "지원 과정에서 AI 사용을 고려하여 **지원자 경험을 개선**하고, 온라인 평판 관리에 더욱 신경 써야 합니다.",
     "source": "HR Dive",
     "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/"
    },
    {
-    "title": "Many executives say they are worried about leading with empathy",
-    "summary": "AI 투자 압박으로 인해 경영진은 직원 복지, 문화, 유지에 대한 우선순위를 낮추고 있습니다. **공감 리더십의 중요성**을 재확인해야 합니다.",
-    "takeaway": "팀과의 정기적인 소통을 통해 직원들의 고충을 파악하고, 공감 리더십을 강화하여 직원 만족도와 유지율을 높여야 합니다.",
-    "source": "HR Dive",
-    "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/"
-   },
-   {
     "title": "CEO exits due to misconduct have doubled compared to 2024",
-    "summary": "비행으로 인한 CEO 퇴임 건수가 2024년 대비 두 배 증가했습니다. **판단력 부족**이 문제의 원인으로 지적됩니다.",
-    "takeaway": "임원진의 윤리 교육 및 리스크 관리 교육을 강화하여 잠재적인 비행 위험을 예방하고, 책임 경영을 실천해야 합니다.",
+    "summary": "비도덕적 행동으로 인한 CEO 퇴임 건수가 2024년 대비 두 배 증가했으며, **판단력 문제가 핵심 원인**으로 지목되었습니다.",
+    "takeaway": "CEO 및 임원진의 윤리적 판단력에 대한 **정기적인 교육 및 검토**를 강화하고, 내부 고발 시스템을 점검해야 합니다.",
     "source": "HR Dive",
     "url": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/"
+   },
+   {
+    "title": "What 40 Luxury Salespeople Taught Me About the Rich",
+    "summary": "40명의 럭셔리 판매자가 부유층에 대해 가르쳐 준 점은 **개인적인 관계와 공감 능력**이 중요함을 보여줍니다.",
+    "takeaway": "고객과의 관계 구축 및 유지에 **개인화된 서비스와 공감 능력**을 강조하는 교육 프로그램을 개발해야 합니다.",
+    "source": "backrow.net",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklweE82dnVPZFRMRUtkMDRTVWVlWnNldjJWcExqZm1ZOHVOMEV3eVJfTW1sanFmaU9RZHZpRmJzNTVEZXNXLXRQVXFYLVdGZUpQaGNQTU84Y09CUzlqbHk5Vkd6N25aTmZ2bXI1RU1STTk4Z3NObHNwbHYySm0wb0hacw?oc=5"
    }
   ],
   "analysis": {
    "title": "신규 입사자 조직사회화 — 초기 적응이 근속을 좌우한다",
-   "theory": "신규 입사자의 조직 적응은 **정보 탐색**, **역할 명확성**, **사회적 수용**과 관련됩니다. 입사 초기 단계에서 이러한 요소들이 긍정적인 영향을 미치면, 장기적으로 성과, 만족도, 조직 몰입도 향상과 이직률 감소로 이어집니다. **적응 과정**은 단순히 업무 교육뿐 아니라, 조직 문화와 동료 관계에 대한 이해를 포함합니다.",
-   "methodology": "연구에서는 **메타 분석**을 통해 다양한 연구 결과를 종합적으로 검토합니다. 설문 조사와 인터뷰를 통해 신규 입사자의 역할 이해도, 자신감 수준, 동료 관계 만족도 등을 측정합니다. **성과, 만족도, 이직 의도**와 같은 결과 변수도 함께 측정하여 관계를 분석합니다.",
-   "trend": "최근 연구는 **개인의 특성** (예: 성격, 이전 경험)이 적응 과정에 미치는 영향을 더 자세히 분석합니다. 또한, **디지털 도구**를 활용한 온보딩 프로그램의 효과를 평가하는 연구가 증가하고 있습니다. **다양한 배경**을 가진 신규 입사자의 적응을 지원하는 방안에 대한 관심도 높아지고 있습니다.",
-   "practice": "매장에서는 신규 입사자가 **업무 지시**를 명확하게 이해하는지 확인합니다. **팀 내 소통**이 원활하게 이루어지는지, 그리고 신규 입사자가 **동료들과 긍정적인 관계**를 맺고 있는지 관찰합니다. 필요시 추가적인 지원과 피드백을 제공하여 적응을 돕습니다.",
+   "theory": "신규 입사자의 조직 적응은 **정보 탐색**, **역할 명확성**, **사회적 수용**과 관련됩니다. 입사 초기 단계에서 이러한 요소들이 긍정적으로 작용할수록, 장기적인 성과, 만족도, 회사에 대한 헌신, 이직률에 영향을 미칩니다. **조직 문화 적응**은 단순히 업무 능력을 넘어 중요한 요소입니다.",
+   "methodology": "연구는 주로 설문조사, 인터뷰, 그리고 성과 데이터 분석을 통해 진행됩니다. **신규 입사자의 자기 보고**를 통해 역할 명확성, 자신감, 사회적 수용 정도를 측정합니다. **성과 데이터**는 판매 실적, 고객 만족도, 그리고 이직률 등을 포함합니다.",
+   "trend": "최근 연구는 **다양성 및 포용성**을 고려한 적응 과정을 분석하고 있습니다. 또한, **디지털 환경**에서의 온라인 온보딩 경험이 신규 입사자의 적응에 미치는 영향에 대한 관심이 높아지고 있습니다. **개인의 특성** (예: 성격, 이전 경험)이 적응에 미치는 영향도 연구되고 있습니다.",
+   "practice": "매장에서는 신규 입사자가 **업무 관련 정보**를 충분히 얻고 있는지 확인합니다. **동료와의 관계 형성**을 지원하고, **역할 기대**가 명확하게 전달되었는지 점검합니다. 신규 입사자의 **피드백**을 정기적으로 수렴하여 온보딩 프로세스를 개선합니다.",
    "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
    "url": "https://doi.org/10.1037/0021-9010.92.3.707"
   },
@@ -49,32 +49,32 @@
   "news": [
    {
     "title": "Job applicants say they are using AI to discover, investigate companies",
-    "summary": "Job applicants are using AI to investigate companies, and over 50% have declined to apply after learning negative information. **Consider the impact of online reputation** on candidate attraction.",
-    "takeaway": "Review online reputation and ensure transparency in the hiring process to mitigate candidate drop-off due to negative information discovered through AI.",
+    "summary": "Job applicants are using AI to investigate companies, and **over 50% declined to apply after learning negative information through AI**.",
+    "takeaway": "Consider AI usage in the application process and **improve candidate experience**, while also focusing on online reputation management.",
     "source": "HR Dive",
     "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/"
    },
    {
-    "title": "Many executives say they are worried about leading with empathy",
-    "summary": "Executives are deprioritizing employee well-being and retention due to pressure to invest in AI. **Reinforce the importance of empathetic leadership**.",
-    "takeaway": "Conduct regular check-ins with teams to understand their concerns and prioritize empathetic leadership to improve employee satisfaction and retention.",
-    "source": "HR Dive",
-    "url": "https://www.hrdive.com/news/many-executives-say-they-are-worried-about-leading-with-empathy/874529/"
-   },
-   {
     "title": "CEO exits due to misconduct have doubled compared to 2024",
-    "summary": "CEO exits due to misconduct have doubled compared to 2024, with **poor judgment** cited as a key factor.",
-    "takeaway": "Strengthen ethics and risk management training for executives to prevent misconduct and promote responsible leadership.",
+    "summary": "CEO exits due to misconduct have doubled compared to 2024, with **questions of judgment being a key factor**.",
+    "takeaway": "Strengthen **regular training and review of ethical judgment** for CEOs and executives, and review internal reporting systems.",
     "source": "HR Dive",
     "url": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/"
+   },
+   {
+    "title": "What 40 Luxury Salespeople Taught Me About the Rich",
+    "summary": "What 40 luxury salespeople taught about the rich highlights the importance of **personal relationships and empathy**.",
+    "takeaway": "Develop training programs that emphasize **personalized service and empathy** in building and maintaining customer relationships.",
+    "source": "backrow.net",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklweE82dnVPZFRMRUtkMDRTVWVlWnNldjJWcExqZm1ZOHVOMEV3eVJfTW1sanFmaU9RZHZpRmJzNTVEZXNXLXRQVXFYLVdGZUpQaGNQTU84Y09CUzlqbHk5Vkd6N25aTmZ2bXI1RU1STTk4Z3NObHNwbHYySm0wb0hacw?oc=5"
    }
   ],
   "analysis": {
    "title": "Newcomer adjustment during organizational socialization",
-   "theory": "Newcomer adjustment involves **information seeking**, **role clarity**, and **social acceptance**. Positive influences in these areas during the initial months lead to improved performance, satisfaction, commitment, and reduced turnover later. **Organizational socialization** is more than just job training; it includes understanding company culture and relationships.",
-   "methodology": "Research utilizes **meta-analysis** to synthesize findings from multiple studies. Surveys and interviews measure newcomers' understanding of their roles, self-confidence, and satisfaction with coworker relationships. **Performance, satisfaction, and turnover intentions** are also measured to analyze relationships.",
-   "trend": "Recent research explores how **individual characteristics** (e.g., personality, prior experience) affect the adjustment process. Studies evaluating the effectiveness of onboarding programs using **digital tools** are increasing. There’s also growing interest in supporting the adjustment of newcomers from **diverse backgrounds**.",
-   "practice": "At stores, confirm that new hires clearly understand **job instructions**. Observe if **team communication** is flowing well. Check if new hires are building **positive relationships** with colleagues and offer additional support if needed.",
+   "theory": "Newcomer adjustment involves **information seeking**, **role clarity**, and **social acceptance**. Positive experiences in these areas during the initial months strongly link to later performance, satisfaction, commitment, and turnover. **Organizational culture assimilation** is crucial, beyond just job skills.",
+   "methodology": "Research typically uses surveys, interviews, and performance data analysis. **Self-reported data** from newcomers measures role clarity, self-efficacy, and social acceptance. **Performance data** includes sales figures, customer satisfaction scores, and turnover rates.",
+   "trend": "Recent research focuses on analyzing adjustment processes considering **diversity and inclusion**. There’s increased interest in the impact of **digital environments** and online onboarding experiences. The influence of **individual characteristics** (e.g., personality, prior experience) on adjustment is also being explored.",
+   "practice": "At stores, confirm newcomers are receiving sufficient **job-related information**. Support **relationship building** with colleagues and ensure **role expectations** are clearly communicated. Regularly collect **feedback** from newcomers to improve onboarding processes.",
    "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
    "url": "https://doi.org/10.1037/0021-9010.92.3.707"
   },
