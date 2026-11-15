@@ -24,7 +24,9 @@ jobs:
       - name: Start the model (Ollama, runs on this runner)
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
-          for i in $(seq 1 30); do curl -sf http://127.0.0.1:11434/api/version && break; sleep 1; done
+          # 실행기 이미지에 따라 설치 스크립트가 서버를 띄우지 못한다 (systemd 없음) → 직접 띄운다
+          curl -sf http://127.0.0.1:11434/api/version || (nohup ollama serve > /tmp/ollama.log 2>&1 &)
+          for i in $(seq 1 60); do curl -sf http://127.0.0.1:11434/api/version && break; sleep 1; done
           ollama pull "$BRIEFING_MODEL"
       - name: Generate today's briefing
         run: node generate.mjs
