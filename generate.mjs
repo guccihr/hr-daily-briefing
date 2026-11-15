@@ -68,8 +68,7 @@ async function ask(system, user) {
   });
   if (!res.ok) throw new Error(`Ollama ${res.status}: ${(await res.text()).slice(0, 300)}`);
   let content = "";
-  for (const line of (await res.text()).split("
-")) if (line.trim()) content += JSON.parse(line).message?.content ?? "";
+  for (const line of (await res.text()).split("\n")) if (line.trim()) content += JSON.parse(line).message?.content ?? "";
   return JSON.parse(content);
 }
 
