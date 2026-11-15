@@ -1,0 +1,62 @@
+[
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제50조 (근로시간)", "article_en": "Working hours",
+    "url": "https://www.law.go.kr/법령/근로기준법/제50조",
+    "ko": { "summary": "근로시간은 휴게시간을 빼고 **1주 40시간, 1일 8시간**을 넘을 수 없다. 작업을 위해 사용자의 지휘·감독 아래 있는 **대기시간도 근로시간**으로 본다.", "store_link": "오픈 준비, 마감 정산, 재고 조사로 남는 시간도 근로시간이다. 매장 근무표에 **오픈·마감 준비 시간이 들어가 있는지** 확인한다." },
+    "en": { "summary": "Working hours, excluding breaks, may not exceed **40 hours a week and 8 hours a day**. **Waiting time** under the employer's direction counts as working hours.", "store_link": "Time spent on opening prep, closing and stock counts is working time. Check that store schedules **include opening and closing prep**." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제53조 (연장 근로의 제한)", "article_en": "Limit on extended work",
+    "url": "https://www.law.go.kr/법령/근로기준법/제53조",
+    "ko": { "summary": "당사자가 합의하면 **1주에 12시간까지** 근로시간을 연장할 수 있다. 기본 40시간에 더해 **1주 최대 52시간**이라는 뜻이다.", "store_link": "세일·런칭 주간에 결원이 겹치면 특정 직원에게 연장 근로가 몰린다. Compliance 탭의 **주 52시간 임박 인원을 주 중반에 확인**하고 지원 인력으로 편성을 조정한다." },
+    "en": { "summary": "With the parties' agreement, working hours may be extended by **up to 12 hours a week** — a **maximum of 52 hours a week** on top of the standard 40.", "store_link": "When vacancies overlap with sale or launch weeks, overtime piles onto a few people. Check **staff near the 52-hour limit mid-week** in the Compliance tab and rebalance with support staff." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제54조 (휴게)", "article_en": "Breaks",
+    "url": "https://www.law.go.kr/법령/근로기준법/제54조",
+    "ko": { "summary": "근로시간이 **4시간이면 30분 이상, 8시간이면 1시간 이상**의 휴게시간을 근로시간 도중에 줘야 한다. 휴게시간은 근로자가 **자유롭게 쓸 수 있어야** 한다.", "store_link": "혼자 매장을 지키느라 쉬지 못하면 휴게를 준 것으로 보기 어렵다. 소규모 매장은 **교대 인원이 있어야 휴게가 성립**한다. Compliance 탭의 휴게시간 미준수 건수를 본다." },
+    "en": { "summary": "Employees must get a break of **at least 30 minutes for 4 hours of work and 1 hour for 8 hours**, during working hours. They must be **free to use it as they wish**.", "store_link": "A break spent minding the store alone is hard to count as a break. Small stores need **cover staff for breaks to be real**. Watch the break-violation count in the Compliance tab." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제55조 (휴일)", "article_en": "Holidays",
+    "url": "https://www.law.go.kr/법령/근로기준법/제55조",
+    "ko": { "summary": "사용자는 근로자에게 **1주에 평균 1회 이상의 유급휴일**을 보장해야 한다. 대통령령으로 정하는 **공휴일도 유급으로 보장**하되, 근로자대표와 서면 합의하면 다른 근로일로 대체할 수 있다.", "store_link": "매장은 주말·공휴일이 가장 바쁘다. 공휴일 근무를 다른 날로 바꿨다면 **대체 휴일이 실제로 부여됐는지** 근무표에서 확인한다." },
+    "en": { "summary": "Employers must guarantee **at least one paid holiday a week on average**. **Public holidays** set by decree are also paid, and may be swapped for another working day by written agreement with the employee representative.", "store_link": "Weekends and public holidays are a store's busiest days. Where holiday work was swapped, check the schedule to confirm **the substitute day off was actually given**." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제56조 (연장·야간 및 휴일 근로)", "article_en": "Extended, night and holiday work",
+    "url": "https://www.law.go.kr/법령/근로기준법/제56조",
+    "ko": { "summary": "연장근로에는 **통상임금의 50% 이상**을 더 줘야 한다. 휴일근로는 **8시간 이내 50%, 8시간 초과분 100%** 가산이고, 밤 10시부터 오전 6시 사이 야간근로에도 50%를 더한다.", "store_link": "세일 기간의 연장 영업과 휴일 근무는 가산 대상이다. **휴일근무 건수가 많은 매장**은 인건비와 피로가 함께 쌓이므로 증원 검토 대상으로 본다." },
+    "en": { "summary": "Extended work earns **at least 50% extra** on ordinary wages. Holiday work earns **50% extra up to 8 hours and 100% beyond**, and night work between 10 pm and 6 am earns 50% extra.", "store_link": "Extended hours during sales and holiday shifts all carry premiums. Stores with **many holiday shifts** build up both labor cost and fatigue — consider them for extra headcount." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제60조 (연차 유급휴가)", "article_en": "Annual paid leave",
+    "url": "https://www.law.go.kr/법령/근로기준법/제60조",
+    "ko": { "summary": "1년간 **80% 이상 출근하면 15일**의 유급휴가를 준다. 근속 1년 미만이면 1개월 개근할 때마다 1일. 3년 이상 근속하면 2년마다 1일씩 늘고 **한도는 25일**이다.", "store_link": "세일·성수기에는 연차가 밀리기 쉽다. Compliance 탭에서 **매장별 연차 사용률**을 분기마다 확인하고 성수기 앞뒤로 사용 계획을 잡는다." },
+    "en": { "summary": "An employee who attends **80% or more of the year gets 15 days** of paid leave. Under one year: one day per month of full attendance. After three years, one extra day every two years, **capped at 25 days**.", "store_link": "Leave gets pushed back in peak season. Check **leave usage by store** in the Compliance tab each quarter and plan leave around peak weeks." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제61조 (연차 유급휴가의 사용 촉진)", "article_en": "Encouraging use of annual leave",
+    "url": "https://www.law.go.kr/법령/근로기준법/제61조",
+    "ko": { "summary": "사용자가 정해진 시기에 **남은 연차 일수를 서면으로 알리고 사용 시기를 정하도록 촉구**했는데도 근로자가 쓰지 않으면, 사용하지 않은 휴가에 대한 **보상 의무가 없다**. 절차를 지키지 않으면 보상 의무가 남는다.", "store_link": "사용 촉진은 **기한과 서면 통지**가 핵심이다. Compliance 탭의 사용 촉진 대상자 수를 보고, 통지 시기를 놓치지 않게 일정에 넣는다." },
+    "en": { "summary": "If the employer **notifies remaining leave in writing and urges the employee to schedule it** at the set times, and the employee still does not use it, the employer **owes no payout** for the unused days. Skip the procedure and the payout duty remains.", "store_link": "The procedure turns on **deadlines and written notice**. Use the count of staff needing a reminder in the Compliance tab and put the notice dates on the calendar." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제17조 (근로조건의 명시)", "article_en": "Stating working conditions",
+    "url": "https://www.law.go.kr/법령/근로기준법/제17조",
+    "ko": { "summary": "근로계약을 맺을 때 **임금, 소정근로시간, 휴일, 연차 유급휴가** 등을 명시해야 한다. 임금의 구성항목·계산방법·지급방법과 근로시간·휴일·연차는 **서면으로 적어 근로자에게 교부**해야 한다.", "store_link": "계약직·파트타임 채용이 잦은 매장일수록 빠뜨리기 쉽다. **입사 첫날 서면 교부 여부**를 온보딩 30일 점검 항목에 넣는다." },
+    "en": { "summary": "When making an employment contract, the employer must state **wages, contractual working hours, holidays and annual paid leave**. Wage components, calculation and payment method, plus hours, holidays and leave, must be **given to the employee in writing**.", "store_link": "Stores that often hire fixed-term and part-time staff are most likely to miss this. Add **written terms handed over on day one** to the 30-day onboarding check." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제26조 (해고의 예고)", "article_en": "Advance notice of dismissal",
+    "url": "https://www.law.go.kr/법령/근로기준법/제26조",
+    "ko": { "summary": "근로자를 해고하려면 **적어도 30일 전에 예고**해야 한다. 예고하지 않으면 **30일분 이상의 통상임금**을 지급해야 한다. 계속 근로한 기간이 **3개월 미만**인 경우 등은 예외다.", "store_link": "수습 종료 시점의 계약 해지가 대표적인 분쟁 지점이다. Compliance 탭의 **수습 종료 예정자 목록**을 보고 판단과 통지를 미리 준비한다." },
+    "en": { "summary": "Dismissal requires **at least 30 days' advance notice**. Without it, the employer must pay **at least 30 days of ordinary wages**. Exceptions include employees with **less than three months** of continuous service.", "store_link": "Ending a contract at the close of probation is a classic dispute point. Use the **probation-ending list** in the Compliance tab to prepare the decision and notice in advance." }
+  },
+  {
+    "statute": "근로기준법", "statute_en": "Labor Standards Act", "article": "제76조의2 (직장 내 괴롭힘의 금지)", "article_en": "Prohibition of workplace harassment",
+    "url": "https://www.law.go.kr/법령/근로기준법/제76조의2",
+    "ko": { "summary": "사용자나 근로자는 **직장에서의 지위나 관계의 우위**를 이용해, 업무상 적정 범위를 넘어 다른 근로자에게 **신체적·정신적 고통을 주거나 근무환경을 악화**시켜서는 안 된다.", "store_link": "소규모 매장은 관계가 닫혀 있어 문제가 드러나기 어렵다. **eNPS·펄스가 급락한 매장**은 리더십 신호로 보고 SM 면담과 익명 채널을 점검한다." },
+    "en": { "summary": "No employer or employee may use **superiority of position or relationship** at work to cause another employee **physical or mental suffering, or worsen the work environment**, beyond what the job properly requires.", "store_link": "Small stores are closed circles where problems stay hidden. Treat a store with a **sharp drop in eNPS or pulse** as a leadership signal: talk to the store manager and check the anonymous channel." }
+  }
+]
