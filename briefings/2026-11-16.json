@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-16",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-15T15:32:12.415Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Job applicants say they are using AI to discover, investigate companies",
+    "summary": "**지원자들이 AI를 사용하여 회사 정보를 조사하고 있습니다.** 50% 이상의 지원자가 AI를 통해 회사에 대한 부정적인 정보를 얻은 후 지원을 포기했습니다. **기업 평판 관리가 중요합니다.**",
+    "takeaway": "매장 리뷰 및 소셜 미디어 언급을 주기적으로 확인하여 지원자에게 부정적인 인상을 줄 수 있는 문제를 파악하고 개선해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/"
+   },
+   {
+    "title": "CEO exits due to misconduct have doubled compared to 2024",
+    "summary": "**비도덕적 행동으로 인한 CEO 퇴임이 2024년보다 두 배 증가했습니다.** 판단력 부족이 원인으로 지목되고 있습니다. **리더십 윤리 교육의 중요성이 커지고 있습니다.**",
+    "takeaway": "리더십 교육 프로그램에 윤리적 판단력과 책임감에 대한 내용을 강화하고, 잠재적 위험 신호를 조기에 감지할 수 있도록 관리자 교육을 실시해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/"
+   },
+   {
+    "title": "What 40 Luxury Salespeople Taught Me About the Rich",
+    "summary": "**럭셔리 판매자 40명이 부유층 고객에 대한 통찰력을 제공했습니다.** 고객 관계 구축 및 맞춤형 서비스 제공의 중요성을 강조합니다. **고객 경험에 대한 이해가 필수적입니다.**",
+    "takeaway": "고객 데이터 분석 및 직원 교육을 통해 고객의 니즈와 선호도를 파악하고, 개인화된 서비스를 제공할 수 있도록 지원해야 합니다.",
+    "source": "https://www.backrow.net/",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklweE82dnVPZFRMRUtkMDRTVWVlWnNldjJWcExqZm1ZOHVOMEV3eVJfTW1sanFmaU9RZHZpRmJzNTVEZXNXLXRQVXFYLVdGZUpQaGNQTU84Y09CUzlqbHk5Vkd6N25aTmZ2bXI1RU1STTk4Z3NObHNwbHYySm0wb0hacw?oc=5"
+   }
+  ],
+  "analysis": {
+   "title": "신규 입사자 조직사회화 — 초기 적응이 근속을 좌우한다",
+   "theory": "**새내기 조직 사회화**는 새로운 직원이 조직에 적응하는 과정입니다. **역할 명확성, 자기 효능감, 사회적 수용**은 초기 적응에 중요한 요소입니다. 이러한 요소들은 성과, 만족도, 조직 몰입, 이직률에 영향을 미칩니다.",
+   "methodology": "연구는 **메타 분석**을 통해 다양한 연구 결과를 종합합니다. **설문 조사**와 **실험**을 통해 역할 명확성, 자기 효능감, 사회적 수용을 측정합니다. **온보딩 프로그램**과 **정보 탐색 행동**의 효과를 분석합니다.",
+   "trend": "최근 연구는 **개인의 특성**과 **조직 문화**의 영향을 고려합니다. **디지털 온보딩**과 **멘토링 프로그램**의 효과에 대한 관심이 높아지고 있습니다. **다양성과 포용성**을 고려한 사회화 과정의 중요성이 강조됩니다.",
+   "practice": "**새내기 교육 자료**의 명확성을 확인하십시오. **팀 내 지원 시스템**이 잘 운영되는지 점검하십시오. **새내기 피드백**을 통해 개선점을 파악하십시오.",
+   "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
+   "url": "https://doi.org/10.1037/0021-9010.92.3.707"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제55조 (휴일)",
+   "summary": "사용자는 근로자에게 **1주에 평균 1회 이상의 유급휴일**을 보장해야 한다. 대통령령으로 정하는 **공휴일도 유급으로 보장**하되, 근로자대표와 서면 합의하면 다른 근로일로 대체할 수 있다.",
+   "store_link": "매장은 주말·공휴일이 가장 바쁘다. 공휴일 근무를 다른 날로 바꿨다면 **대체 휴일이 실제로 부여됐는지** 근무표에서 확인한다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제55조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Job applicants say they are using AI to discover, investigate companies",
+    "summary": "**Job applicants are using AI to investigate companies.** Over 50% of candidates declined to apply after learning negative information about a company through AI. **Company reputation management is crucial.**",
+    "takeaway": "Regularly monitor store reviews and social media mentions to identify and address issues that could negatively impact potential candidates.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/job-applicants-say-using-ai-to-discover-investigate-companies/874628/"
+   },
+   {
+    "title": "CEO exits due to misconduct have doubled compared to 2024",
+    "summary": "**CEO exits due to misconduct have doubled compared to 2024.** Lack of judgment is cited as a cause. **Leadership ethics training is increasingly important.**",
+    "takeaway": "Strengthen leadership training programs with content on ethical judgment and accountability, and implement training for managers to identify potential risk signals early on.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/the-number-of-ceos-exiting-due-to-misconduct-has-doubled-compared-to-2024/874528/"
+   },
+   {
+    "title": "What 40 Luxury Salespeople Taught Me About the Rich",
+    "summary": "**40 luxury salespeople shared insights into wealthy customers.** It highlights the importance of building customer relationships and providing personalized service. **Understanding the customer experience is essential.**",
+    "takeaway": "Analyze customer data and provide employee training to understand customer needs and preferences, enabling the delivery of personalized service.",
+    "source": "https://www.backrow.net/",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUklweE82dnVPZFRMRUtkMDRTVWVlWnNldjJWcExqZm1ZOHVOMEV3eVJfTW1sanFmaU9RZHZpRmJzNTVEZXNXLXRQVXFYLVdGZUpQaGNQTU84Y09CUzlqbHk5Vkd6N25aTmZ2bXI1RU1STTk4Z3NObHNwbHYySm0wb0hacw?oc=5"
+   }
+  ],
+  "analysis": {
+   "title": "Newcomer adjustment during organizational socialization",
+   "theory": "Newcomer adjustment during organizational socialization describes how new employees adapt to an organization. **Role clarity, self-efficacy, and social acceptance** are key factors in initial adjustment. These factors influence performance, satisfaction, commitment, and turnover.",
+   "methodology": "Research uses **meta-analysis** to synthesize findings from various studies. **Surveys** and **experiments** measure role clarity, self-efficacy, and social acceptance. The effectiveness of **onboarding programs** and **information-seeking behavior** is analyzed.",
+   "trend": "Recent research considers the influence of **individual characteristics** and **organizational culture**. There's increased interest in the effectiveness of **digital onboarding** and **mentoring programs**. The importance of inclusive socialization processes is emphasized.",
+   "practice": "Review the clarity of **newcomer training materials**. Check the functionality of **team support systems**. Gather **newcomer feedback** to identify areas for improvement.",
+   "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
+   "url": "https://doi.org/10.1037/0021-9010.92.3.707"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제55조 (Holidays)",
+   "summary": "Employers must guarantee **at least one paid holiday a week on average**. **Public holidays** set by decree are also paid, and may be swapped for another working day by written agreement with the employee representative.",
+   "store_link": "Weekends and public holidays are a store's busiest days. Where holiday work was swapped, check the schedule to confirm **the substitute day off was actually given**.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제55조"
+  }
+ }
+}
