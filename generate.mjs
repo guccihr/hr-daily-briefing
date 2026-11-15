@@ -30,7 +30,7 @@ const json = (name) => JSON.parse(readFileSync(join(DIR, name), "utf8"));
 const decode = (s) =>
   s.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, "$1")
     .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&amp;/g, "&")
-    .replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/\s+/g, " ").trim();
+    .replace(/<[^>]+>/g, " ").replace(/&[lr]dquo;/g, '"').replace(/&[lr]squo;/g, "'").replace(/&[a-z]+;/g, " ").replace(/\s+/g, " ").trim();
 const tag = (xml, name) => decode(xml.match(new RegExp(`<${name}[^>]*>([\\s\\S]*?)</${name}>`))?.[1] ?? "");
 
 async function candidates() {
@@ -47,7 +47,11 @@ async function candidates() {
         // Google News는 제목 끝에 " - 매체명"이 붙고, 실제 매체는 <source>에 있다
         const outlet = tag(item, "source");
         const title = tag(item, "title").replace(outlet ? new RegExp(`\\s+-\\s+${outlet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`) : /$^/, "");
-        all.push({ title, url, source: outlet || feed.source, description: tag(item, "description").slice(0, 300), published });
+        const description = tag(item, "description").slice(0, 300);
+        // Google News는 설명이 제목의 반복이다 → 요약할 근거가 제목뿐인 기사로 표시
+        const thin = description.length < 60 || description.startsWith(title.slice(0, 40));
+        const source = /^https?:\/\//.test(outlet) ? new URL(outlet).hostname.replace(/^www\./, "") : outlet || feed.source;
+        all.push({ title, url, source, description: thin ? "" : description, thin, published });
       }
     } catch (e) {
       console.warn(`feed skipped: ${feed.source} (${e.message})`);
@@ -82,22 +86,25 @@ const text = (v, max = 1200) => {
   return v.trim().slice(0, max);
 };
 
+// 근거가 제목뿐인 기사는 한 문장만 남긴다 (모델이 내용을 지어내지 못하게)
+const firstSentence = (t) => t.match(/^.*?[.!?](?=\*{0,2}(\s|$))\*{0,2}/)?.[0] ?? t;
+
 async function news(list) {
   if (DRY) return { ko: list.slice(0, 2).map((c) => ({ title: c.title, summary: c.description || c.title, takeaway: "", source: c.source, url: c.url })), en: [] };
   const out = await ask(
     STYLE,
     `Candidate articles (index, source, title, feed description):
-${list.map((c, i) => `${i}. [${c.source}] ${c.title} :: ${c.description}`).join("\n")}
+${list.map((c, i) => `${i}. [${c.source}] ${c.title} :: ${c.description || "(no description)"}`).join("\n")}
 
 Pick the 3 most useful for the reader (HR in luxury fashion / retail / frontline work first; skip finance, politics and anything unrelated to people management).
-Base each summary ONLY on the title and description above. Do not add facts that are not there; if the description is thin, keep the summary to one or two sentences. Summaries are your own words, not copied sentences.
+Base each summary ONLY on the title and description above. Do not add facts that are not there; if it says "(no description)", the summary is ONE sentence that only restates the title. Summaries are your own words, not copied sentences.
 "takeaway" = one sentence on what an HR partner should check or do in their stores.
 JSON shape: {"items":[{"index":0,"ko":{"summary":"","takeaway":""},"en":{"summary":"","takeaway":""}}]}`,
   );
   const picked = (out.items ?? []).filter((it) => Number.isInteger(it.index) && list[it.index]).slice(0, 3);
   if (picked.length === 0) throw new Error("LLM picked no valid news items");
   // 제목·출처·링크는 LLM 출력이 아니라 피드 원본에서 가져온다
-  const side = (lang) => picked.map((it) => ({ title: list[it.index].title, summary: text(it[lang]?.summary), takeaway: text(it[lang]?.takeaway, 400), source: list[it.index].source, url: list[it.index].url }));
+  const side = (lang) => picked.map((it) => ({ title: list[it.index].title, summary: list[it.index].thin ? firstSentence(text(it[lang]?.summary)) : text(it[lang]?.summary), takeaway: text(it[lang]?.takeaway, 400), source: list[it.index].source, url: list[it.index].url }));
   return { ko: side("ko"), en: side("en") };
 }
 
