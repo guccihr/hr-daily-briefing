@@ -7,23 +7,27 @@ on:
 
 permissions:
   contents: write # 생성한 JSON을 커밋
-  models: read # GitHub Models 무료 한도 사용
 
 concurrency: daily-briefing
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 60
+    env:
+      BRIEFING_MODEL: gemma3:12b
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Start the model (Ollama, runs on this runner)
+        run: |
+          curl -fsSL https://ollama.com/install.sh | sh
+          for i in $(seq 1 30); do curl -sf http://127.0.0.1:11434/api/version && break; sleep 1; done
+          ollama pull "$BRIEFING_MODEL"
       - name: Generate today's briefing
         run: node generate.mjs
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"

@@ -1,17 +1,18 @@
 // Daily Briefing 생성기 — GitHub Actions에서 매일 실행된다 (무료).
-//   뉴스   : 공개 RSS 피드에서 후보를 모으고, GitHub Models(무료 한도)의 LLM이 고르고 요약한다.
+//   뉴스   : 공개 RSS 피드에서 후보를 모으고, 실행기 안에서 돌리는 공개 모델(Ollama)이 고르고 요약한다.
+//            외부 LLM API·API 키를 쓰지 않는다 (GitHub Models는 2026-07-30 종료).
 //            링크와 제목은 피드에 있던 것만 쓴다 (LLM이 지어낸 기사·URL은 버린다).
 //   분석   : topics.json의 실제 출처 목록을 날짜순으로 돌려 쓰고, LLM이 설명을 쓴다.
 //   노동법 : laws.json에 미리 검토해 둔 조문을 날짜순으로 돌려 쓴다 (LLM이 법 내용을 쓰지 않는다).
-// 실행 : GITHUB_TOKEN=... node generate.mjs [YYYY-MM-DD]      의존성 없음, Node 20+
+// 실행 : (ollama serve + ollama pull 후) node generate.mjs [YYYY-MM-DD]      의존성 없음, Node 20+
 //        node generate.mjs --dry   → LLM 호출 없이 피드 수집·형식만 점검
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const DIR = import.meta.dirname;
 const OUT = join(DIR, "briefings");
-const MODEL = process.env.BRIEFING_MODEL ?? "openai/gpt-4.1";
-const ENDPOINT = "https://models.github.ai/inference/chat/completions";
+const MODEL = process.env.BRIEFING_MODEL ?? "gemma3:12b";
+const ENDPOINT = "http://127.0.0.1:11434/api/chat";
 const DRY = process.argv.includes("--dry");
 
 const FEEDS = [
@@ -46,26 +47,30 @@ async function candidates() {
         // Google News는 제목 끝에 " - 매체명"이 붙고, 실제 매체는 <source>에 있다
         const outlet = tag(item, "source");
         const title = tag(item, "title").replace(outlet ? new RegExp(`\\s+-\\s+${outlet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}$`) : /$^/, "");
-        all.push({ title, url, source: outlet || feed.source, description: tag(item, "description").slice(0, 400), published });
+        all.push({ title, url, source: outlet || feed.source, description: tag(item, "description").slice(0, 300), published });
       }
     } catch (e) {
       console.warn(`feed skipped: ${feed.source} (${e.message})`);
     }
   }
   const seen = new Set();
-  return all.filter((c) => c.title && !seen.has(c.title) && seen.add(c.title)).sort((a, b) => b.published - a.published).slice(0, 24);
+  return all.filter((c) => c.title && !seen.has(c.title) && seen.add(c.title)).sort((a, b) => b.published - a.published).slice(0, 16);
 }
 
-// ── LLM (GitHub Models) ─────────────────────────────────────────
+// ── LLM (실행기 안의 Ollama) ─────────────────────────────────────────
 async function ask(system, user) {
   const res = await fetch(ENDPOINT, {
     method: "POST",
-    headers: { Authorization: `Bearer ${process.env.GITHUB_TOKEN}`, "Content-Type": "application/json", Accept: "application/vnd.github+json" },
-    body: JSON.stringify({ model: MODEL, temperature: 0.3, response_format: { type: "json_object" }, messages: [{ role: "system", content: system }, { role: "user", content: user }] }),
-    signal: AbortSignal.timeout(120000),
+    headers: { "Content-Type": "application/json" },
+    // stream : CPU에서는 답이 몇 분 걸리므로, 조각으로 받아 fetch의 응답 대기 제한(5분)에 걸리지 않게 한다
+    body: JSON.stringify({ model: MODEL, stream: true, format: "json", options: { temperature: 0.3, num_ctx: 8192 }, messages: [{ role: "system", content: system }, { role: "user", content: user }] }),
+    signal: AbortSignal.timeout(25 * 60000),
   });
-  if (!res.ok) throw new Error(`GitHub Models ${res.status}: ${(await res.text()).slice(0, 300)}`);
-  return JSON.parse((await res.json()).choices[0].message.content);
+  if (!res.ok) throw new Error(`Ollama ${res.status}: ${(await res.text()).slice(0, 300)}`);
+  let content = "";
+  for (const line of (await res.text()).split("
+")) if (line.trim()) content += JSON.parse(line).message?.content ?? "";
+  return JSON.parse(content);
 }
 
 const STYLE = `You write a daily briefing for HR business partners at a luxury fashion retailer in South Korea (store managers and client advisors in boutiques, department stores, duty-free shops and outlets).
@@ -127,7 +132,7 @@ const [n, a] = [await news(list), await analysis(topic)];
 
 const briefing = {
   date,
-  generated: { model: DRY ? "dry-run" : `${MODEL} (GitHub Models)`, at: new Date().toISOString() },
+  generated: { model: DRY ? "dry-run" : `${MODEL} (GitHub Actions)`, at: new Date().toISOString() },
   ko: { news: n.ko, analysis: a.ko, law: { statute: law.statute, article: law.article, ...law.ko, url: law.url } },
   en: { news: n.en, analysis: a.en, law: { statute: `${law.statute} (${law.statute_en})`, article: `${law.article.split(" ")[0]} (${law.article_en})`, ...law.en, url: law.url } },
 };
