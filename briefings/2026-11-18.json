@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-18",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-17T22:01:30.379Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
+    "summary": "국세청은 2028년부터 자동 가입 제도 시행을 통해 연간 평균 42억 달러의 저축 증가를 예상합니다. **자동 가입 제도** **저축 증가** **국세청 지침**",
+    "takeaway": "자동 가입 제도 도입 가능성을 검토하고, 직원들의 재정적 안정 지원 방안을 모색하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/"
+   },
+   {
+    "title": "How brands can welcome AI users onto their sites this holiday season",
+    "summary": "고객들이 AI를 활용하고 있지만, 구매 완료를 유도하기 위해서는 사용 편의성이 중요합니다. **AI 활용** **고객 경험** **구매 완료 유도**",
+    "takeaway": "AI 기반 쇼핑 경험을 제공할 때, 고객 편의성을 최우선으로 고려하여 구매 전환율을 높이도록 노력하십시오.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/"
+   },
+   {
+    "title": "This year, every day is Black Friday",
+    "summary": "소비자들은 이미 블랙프라이데이 쇼핑을 시작했으며, 늦게까지 쇼핑할 계획입니다. **블랙프라이데이** **조기 쇼핑** **늦은 시간 쇼핑**",
+    "takeaway": "블랙프라이데이 프로모션 준비를 서두르고, 늦은 시간 쇼핑객을 위한 인력 배치 및 서비스 준비를 강화하십시오.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/"
+   }
+  ],
+  "analysis": {
+   "title": "좋은 일자리 전략 — 매장 인력에 투자하는 리테일이 이기는 이유",
+   "theory": "**좋은 일자리 전략**은 소매업체들이 직원 투자를 통해 비용 절감과 서비스 향상을 동시에 달성할 수 있다는 이론입니다. 직원들에게 안정적인 근무 일정, 교육, 적절한 인력을 제공하고, 운영을 간소화하며, 교차 훈련을 통해 생산성을 높입니다. **직원 투자는 비용이 아닌 투자**로 간주됩니다.",
+   "methodology": "연구는 주로 성공적인 '좋은 일자리' 전략을 가진 소매업체와 그렇지 않은 업체를 비교합니다. **매출, 비용, 직원 이직률, 고객 만족도** 등의 데이터를 분석하여 전략의 효과를 측정합니다.  기업의 운영 방식과 직원 경험에 대한 심층 인터뷰도 활용됩니다.",
+   "trend": "최근 연구는 '좋은 일자리' 전략이 기술 발전과 자동화 시대에도 여전히 중요함을 강조합니다. **고객 경험의 중요성 증대**와 함께, 직원들의 숙련도와 참여도가 경쟁력의 핵심 요소로 부각되고 있습니다.  다양한 산업 분야로 확장되는 경향을 보입니다.",
+   "practice": "매장에서는 **직원 근무 일정의 안정성**을 확인하고, **교육 프로그램의 적절성**을 점검하며, **고객 응대 시 필요한 인력**이 충분히 확보되었는지 확인합니다.  직원들의 업무 분담과 교차 훈련 현황을 관찰하여 업무 효율성을 평가합니다.",
+   "source": "Zeynep Ton (2012), Harvard Business Review",
+   "url": "https://hbr.org/2012/01/why-good-jobs-are-good-for-retailers"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제60조 (연차 유급휴가)",
+   "summary": "1년간 **80% 이상 출근하면 15일**의 유급휴가를 준다. 근속 1년 미만이면 1개월 개근할 때마다 1일. 3년 이상 근속하면 2년마다 1일씩 늘고 **한도는 25일**이다.",
+   "store_link": "세일·성수기에는 연차가 밀리기 쉽다. Compliance 탭에서 **매장별 연차 사용률**을 분기마다 확인하고 성수기 앞뒤로 사용 계획을 잡는다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제60조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "IRS lays out 401(k) auto-enrollment guidelines to begin in 2028",
+    "summary": "The IRS projects an average of $4.2 billion per year increase in savings with auto-enrollment guidelines starting in 2028. **Auto-enrollment** **Savings increase** **IRS guidelines**",
+    "takeaway": "Explore the feasibility of auto-enrollment and consider ways to support employee financial well-being.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/irs-lays-out-401k-plan-autoenrollment-guidelines-set-to-begin-in-2028/874953/"
+   },
+   {
+    "title": "How brands can welcome AI users onto their sites this holiday season",
+    "summary": "Customers are experimenting with AI, but ease of use is crucial to encourage purchase completion. **AI usage** **Customer experience** **Purchase completion**",
+    "takeaway": "Prioritize customer convenience when implementing AI-powered shopping experiences to improve conversion rates.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/brands-welcome-ai-users-onto-sites-holiday-season/874725/"
+   },
+   {
+    "title": "This year, every day is Black Friday",
+    "summary": "Consumers have already begun holiday shopping and plan to shop late. **Black Friday** **Early shopping** **Late-night shopping**",
+    "takeaway": "Accelerate Black Friday promotion preparations and strengthen staffing and service for late-night shoppers.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163/"
+   }
+  ],
+  "analysis": {
+   "title": "The Good Jobs Strategy — why investing in store staff pays off for retailers",
+   "theory": "The Good Jobs Strategy posits that retailers can achieve both cost reduction and service improvement by investing in their employees. It involves providing stable schedules, training, and adequate staffing, alongside operational choices like simplification and cross-training. **Employee investment is viewed as an investment, not a cost.**",
+   "methodology": "Research typically compares retailers with successful 'Good Jobs' strategies to those without. **Metrics like revenue, costs, employee turnover, and customer satisfaction** are analyzed to measure effectiveness.  In-depth interviews exploring operational practices and employee experiences are also used.",
+   "trend": "Recent research emphasizes the continued importance of the 'Good Jobs' strategy in the age of technological advancements and automation. **The increasing importance of customer experience** highlights employee skill and engagement as key competitive differentiators.  It's expanding to various industries.",
+   "practice": "At the store level, check **the stability of employee schedules**, assess the **appropriateness of training programs**, and ensure **sufficient staffing for customer interactions**. Observe employee task allocation and cross-training to evaluate operational efficiency.",
+   "source": "Zeynep Ton (2012), Harvard Business Review",
+   "url": "https://hbr.org/2012/01/why-good-jobs-are-good-for-retailers"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제60조 (Annual paid leave)",
+   "summary": "An employee who attends **80% or more of the year gets 15 days** of paid leave. Under one year: one day per month of full attendance. After three years, one extra day every two years, **capped at 25 days**.",
+   "store_link": "Leave gets pushed back in peak season. Check **leave usage by store** in the Compliance tab each quarter and plan leave around peak weeks.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제60조"
+  }
+ }
+}
