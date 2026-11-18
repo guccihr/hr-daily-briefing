@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-19",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-18T21:57:47.784Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Near-instant rejections may have changed job search behavior",
+    "summary": "구직자들이 빠른 거절에 대해 인간의 검토가 없었다고 생각하는 경향이 있습니다. **빠른 거절**은 구직자 경험에 부정적인 영향을 미칠 수 있습니다. **지원자 경험**에 주의를 기울여야 합니다.",
+    "takeaway": "지원자 경험을 개선하기 위해 빠른 거절 프로세스를 검토하고, 피드백을 제공하는 방법을 고려하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/"
+   },
+   {
+    "title": "Holiday shoppers expect AI to save them over $190 this year",
+    "summary": "쇼핑객들은 AI가 올해 190달러 이상을 절약해 줄 것으로 기대합니다. **AI 활용**은 고객 만족도를 높일 수 있습니다. **고객 기대치**에 맞춰 AI 서비스를 제공해야 합니다.",
+    "takeaway": "AI 기반 쇼핑 지원 서비스를 제공할 계획이라면, 고객 기대치와 실제 제공 가능한 서비스 수준을 일치시키도록 주의하십시오.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/"
+   },
+   {
+    "title": "Employer benefits hold steady despite unstable macroeconomic conditions",
+    "summary": "불안정한 경제 상황에도 불구하고, 기업들은 직원 유지에 중요한 **복리후생**을 유지하고 있습니다. **직원 유지**는 중요한 우선순위입니다. **경쟁력 있는 복지**를 제공해야 합니다.",
+    "takeaway": "현재 제공하는 복리후생이 직원 유지에 효과적인지 평가하고, 경쟁사 대비 경쟁력을 유지하기 위해 노력하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employer-benefits-hold-steady-despite-unstable-macroeconomic-conditions/874945/"
+   }
+  ],
+  "analysis": {
+   "title": "심리적 안전감 — 말해도 괜찮다는 믿음이 팀 학습을 만든다",
+   "theory": "심리적 안전감은 팀 구성원들이 **실수를 하거나 의견을 제시해도 비난받지 않을 것**이라는 믿음입니다. 이는 팀 내 학습 행동을 촉진하며, 궁극적으로 팀 성과 향상에 기여합니다. **상호 존중과 신뢰**가 기반이 되어야 합니다.",
+   "methodology": "심리적 안전감은 주로 설문 조사를 통해 측정됩니다. **팀 구성원들의 주관적인 경험**을 파악하는 질문들을 사용하며, 익명성을 보장하여 솔직한 답변을 유도합니다. 연구에서는 팀 성과와 심리적 안전감 간의 상관관계를 분석합니다.",
+   "trend": "최근 연구는 심리적 안전감의 **다양한 측면**에 주목하고 있습니다. 리더십 스타일, 조직 문화, 그리고 특정 상황에서의 심리적 안전감의 역할 등이 연구되고 있습니다. **개인의 특성**과 심리적 안전감의 관계도 탐구되고 있습니다.",
+   "practice": "매장에서는 팀원들이 **자유롭게 질문하고 아이디어를 공유하는 분위기**를 조성해야 합니다. 매니저는 팀원의 의견을 경청하고, **실수에 대한 건설적인 피드백**을 제공해야 합니다. 팀 회의에서 **다양한 관점을 환영하는 문화**를 만들어야 합니다.",
+   "source": "Edmondson (1999), Administrative Science Quarterly 44(2)",
+   "url": "https://doi.org/10.2307/2666999"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제61조 (연차 유급휴가의 사용 촉진)",
+   "summary": "사용자가 정해진 시기에 **남은 연차 일수를 서면으로 알리고 사용 시기를 정하도록 촉구**했는데도 근로자가 쓰지 않으면, 사용하지 않은 휴가에 대한 **보상 의무가 없다**. 절차를 지키지 않으면 보상 의무가 남는다.",
+   "store_link": "사용 촉진은 **기한과 서면 통지**가 핵심이다. Compliance 탭의 사용 촉진 대상자 수를 보고, 통지 시기를 놓치지 않게 일정에 넣는다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제61조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Near-instant rejections may have changed job search behavior",
+    "summary": "Job seekers feel fast rejections indicate a lack of human review. **Fast rejections** can negatively impact the candidate experience.  Focus on **candidate experience**.",
+    "takeaway": "Review rapid rejection processes to ensure a positive candidate experience and consider providing feedback.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/near-instant-rejections-may-have-changed-job-search-behavior/875085/"
+   },
+   {
+    "title": "Holiday shoppers expect AI to save them over $190 this year",
+    "summary": "Holiday shoppers expect AI to save over $190 this year. **AI utilization** can improve customer satisfaction.  Align **customer expectations** with AI service capabilities.",
+    "takeaway": "If offering AI-powered shopping assistance, ensure the promised savings and functionality align with what can realistically be delivered.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/holiday-shoppers-ai-discounts-save-hundreds/874309/"
+   },
+   {
+    "title": "Employer benefits hold steady despite unstable macroeconomic conditions",
+    "summary": "Employers are protecting key **benefits** despite economic instability to retain employees. **Employee retention** remains a priority. Ensure **competitive benefits** are offered.",
+    "takeaway": "Evaluate the effectiveness of current benefits in retaining employees and ensure they remain competitive within the market.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employer-benefits-hold-steady-despite-unstable-macroeconomic-conditions/874945/"
+   }
+  ],
+  "analysis": {
+   "title": "Psychological safety — the shared belief that it is safe to speak up",
+   "theory": "Psychological safety is the shared belief that team members can **take interpersonal risks without fear of negative consequences**. It encourages learning behaviors, ultimately improving team performance. **Mutual respect and trust** are essential.",
+   "methodology": "Psychological safety is primarily measured through surveys. These surveys assess **team members’ subjective experiences** using questions designed to elicit honest responses, often with anonymity. Research analyzes the correlation between team performance and psychological safety.",
+   "trend": "Recent research focuses on **various facets of psychological safety**. The role of leadership styles, organizational culture, and specific situations is being explored. **Individual characteristics** and their relationship to psychological safety are also under investigation.",
+   "practice": "At the store level, foster an environment where team members **feel comfortable asking questions and sharing ideas**. Managers should actively listen to team members and provide **constructive feedback on mistakes**. Create a team meeting culture that **welcomes diverse perspectives**.",
+   "source": "Edmondson (1999), Administrative Science Quarterly 44(2)",
+   "url": "https://doi.org/10.2307/2666999"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제61조 (Encouraging use of annual leave)",
+   "summary": "If the employer **notifies remaining leave in writing and urges the employee to schedule it** at the set times, and the employee still does not use it, the employer **owes no payout** for the unused days. Skip the procedure and the payout duty remains.",
+   "store_link": "The procedure turns on **deadlines and written notice**. Use the count of staff needing a reminder in the Compliance tab and put the notice dates on the calendar.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제61조"
+  }
+ }
+}
