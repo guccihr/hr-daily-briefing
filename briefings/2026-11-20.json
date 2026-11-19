@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-20",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-19T22:00:50.188Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "summary": "채용 과정에서 AI 사용으로 인해 실제 지원자를 거부할 위험이 있습니다. **90% 이상의 고용주**가 AI가 생성된 것으로 오인하여 지원자를 거부했을 가능성을 우려하고 있습니다.",
+    "takeaway": "지원자 서류 검토 시 AI 생성 여부를 주의 깊게 확인하고, **실제 역량**을 평가하는 프로세스를 강화해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/"
+   },
+   {
+    "title": "Target’s AI shopping assistant is driving sales",
+    "summary": "타겟의 AI 쇼핑 어시스턴트 'Ask Target'의 베타 테스트가 성공적인 초기 결과를 보여주고 있습니다. **CEO는 AI 어시스턴트가 매출 증대에 기여**하고 있다고 언급했습니다.",
+    "takeaway": "매장 내 고객 경험 향상을 위해 AI 기반 쇼핑 어시스턴트 도입 가능성을 검토하고, **직원 교육**을 통해 활용도를 높여야 합니다.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
+   },
+   {
+    "title": "Work done outside regular hours may count toward FMLA eligibility",
+    "summary": "빠른 거절 통보는 구직자의 행동에 영향을 미칠 수 있습니다. **75% 이상의 구직자**는 빠른 거절을 받은 후, 사람이 서류를 검토하지 않았다고 생각했습니다.",
+    "takeaway": "지원자에게 신속하게 피드백을 제공할 때, **개별적인 검토**가 이루어졌음을 명확히 전달하여 구직자의 경험을 개선해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/"
+   }
+  ],
+  "analysis": {
+   "title": "이직과 성과 — 이직률은 조직 성과를 얼마나 깎는가",
+   "theory": "**직원 이직률과 기업 성과는 관련이 있습니다.** 이직률이 높을수록 기업의 성과가 낮아지는 경향이 있습니다. 하지만, 산업 종류, 이직 유형, 성과 측정 방식에 따라 관계의 강도는 달라질 수 있습니다. **높은 이직률은 생산성 저하와 비용 증가로 이어질 수 있습니다.**",
+   "methodology": "연구자들은 **대규모 데이터 분석(메타 분석)**을 통해 여러 연구 결과를 종합했습니다. 이직률과 기업 성과를 측정하는 다양한 방법이 사용되었습니다. **이직률은 이직자 수 또는 비율로 측정**하고, 성과는 매출, 이익, 고객 만족도 등으로 측정했습니다.",
+   "trend": "최근 연구는 **이직률의 원인과 기업 성과에 미치는 영향**에 더 집중하고 있습니다. 또한, **이직률을 줄이기 위한 효과적인 전략**을 찾는 데 초점을 맞추고 있습니다. 특정 직무나 부서의 이직률이 기업 성과에 미치는 영향에 대한 연구도 증가하고 있습니다.",
+   "practice": "**이직률이 높은 매장**을 파악하고, 그 원인을 분석해야 합니다. **직원 만족도 조사**를 통해 이직 의사를 파악하고 개선점을 찾아야 합니다. **새로운 직원 교육 프로그램**의 효과를 측정하여 이직률 감소에 기여하는지 확인해야 합니다.",
+   "source": "Hancock, Allen, Bosco, McDaniel & Pierce (2013), Journal of Management 39(3)",
+   "url": "https://doi.org/10.1177/0149206311424943"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제17조 (근로조건의 명시)",
+   "summary": "근로계약을 맺을 때 **임금, 소정근로시간, 휴일, 연차 유급휴가** 등을 명시해야 한다. 임금의 구성항목·계산방법·지급방법과 근로시간·휴일·연차는 **서면으로 적어 근로자에게 교부**해야 한다.",
+   "store_link": "계약직·파트타임 채용이 잦은 매장일수록 빠뜨리기 쉽다. **입사 첫날 서면 교부 여부**를 온보딩 30일 점검 항목에 넣는다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제17조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Job candidates’ AI usage is obscuring their viability, report finds",
+    "summary": "AI usage in the hiring process may lead to rejection of real candidates. **Over 90% of employers** worry they rejected a genuine applicant due to mistaking a resume as AI-generated.",
+    "takeaway": "Carefully review candidate applications for AI generation and strengthen processes to assess **actual capabilities**.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/job-candidates-ai-usage-is-obscuring-their-viability-report-finds/875232/"
+   },
+   {
+    "title": "Target’s AI shopping assistant is driving sales",
+    "summary": "Target’s AI shopping assistant, ‘Ask Target,’ is showing early success in its beta test. The **CEO noted that the AI assistant is contributing to sales growth**.",
+    "takeaway": "Consider the possibility of introducing AI-based shopping assistants to enhance the in-store customer experience and **train employees** to maximize their use.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
+   },
+   {
+    "title": "Work done outside regular hours may count toward FMLA eligibility",
+    "summary": "Near-instant rejections may have changed job seeker behavior. **Over 75% of job seekers** who received a fast rejection didn’t believe a human had reviewed their resume.",
+    "takeaway": "When providing swift feedback to candidates, clearly communicate that **individual review** occurred to improve the candidate experience.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/work-done-outside-regular-hours-may-count-toward-fmla-eligibility/875080/"
+   }
+  ],
+  "analysis": {
+   "title": "Turnover and performance — how much employee turnover costs firm performance",
+   "theory": "**Employee turnover and firm performance are linked.** Higher turnover is generally associated with lower firm performance. However, the strength of this relationship varies depending on the industry, type of turnover, and performance measure. **High turnover can lead to decreased productivity and increased costs.**",
+   "methodology": "Researchers used **meta-analysis, a large-scale data analysis**, to combine findings from multiple studies. Various methods were used to measure turnover and firm performance. **Turnover was measured as the number or rate of departing employees**, and performance was measured using metrics like sales, profit, and customer satisfaction.",
+   "trend": "Recent research focuses more on **the causes of turnover and its impact on firm performance**. There's also a growing focus on identifying **effective strategies to reduce turnover**. Studies examining the impact of turnover in specific roles or departments are becoming more common.",
+   "practice": "**Identify stores with high turnover rates** and analyze the reasons behind them. **Conduct employee satisfaction surveys** to gauge intentions and identify areas for improvement. **Measure the effectiveness of new employee training programs** to see if they contribute to reduced turnover.",
+   "source": "Hancock, Allen, Bosco, McDaniel & Pierce (2013), Journal of Management 39(3)",
+   "url": "https://doi.org/10.1177/0149206311424943"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제17조 (Stating working conditions)",
+   "summary": "When making an employment contract, the employer must state **wages, contractual working hours, holidays and annual paid leave**. Wage components, calculation and payment method, plus hours, holidays and leave, must be **given to the employee in writing**.",
+   "store_link": "Stores that often hire fixed-term and part-time staff are most likely to miss this. Add **written terms handed over on day one** to the 30-day onboarding check.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제17조"
+  }
+ }
+}
