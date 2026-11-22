@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-23",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-22T21:46:58.496Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "summary": "직원들의 경력 개발이 채용 및 이직의 주요 원인이라는 새로운 연구 결과가 나왔습니다. 신규 직원과 퇴사자의 피드백이 일치했습니다.",
+    "takeaway": "**경력 개발 기회 제공** 및 직원들의 성장 목표에 대한 피드백을 정기적으로 확인하여 이직률을 줄이세요.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/"
+   },
+   {
+    "title": "Vuori exec to lead struggling Athleta",
+    "summary": "Vuori 출신 임원인 Ashley Kechter가 Athleta의 새로운 리더로 임명되었습니다. Athleta는 최근 분기 연속 두 자릿수 감소세를 보이고 있습니다.",
+    "takeaway": "**Athleta의 새로운 리더십**과 전략 변화를 주시하고, 필요한 경우 직원들에게 변화에 대한 정보를 제공하고 지원하세요.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/"
+   },
+   {
+    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
+    "summary": "Indeed와 Glassdoor는 2027년에 노동 시장의 변화가 있을 것으로 예상하며, 높은 이직률과 리더십 파이프라인 부족이 주요 우려 사항이 될 수 있다고 전했습니다.",
+    "takeaway": "**향후 인력 계획**에 대비하여 리더십 개발 프로그램 강화 및 이직률 감소 전략을 검토하세요.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/"
+   }
+  ],
+  "analysis": {
+   "title": "직무 요구–자원 모형(JD-R) — 번아웃과 몰입을 한 틀로 보기",
+   "theory": "**직무 요구-자원(JD-R) 모델**은 직무의 특징을 요구(업무량, 감정 노동, 불규칙 근무)와 자원(자율성, 지원, 피드백, 성장 기회)으로 나눕니다. 요구는 소진을 유발하고, 자원은 몰입을 촉진하며, 자원은 높은 요구를 완화합니다. **이 모델은 소진과 몰입을 설명하는 프레임워크**입니다.",
+   "methodology": "JD-R 모델은 주로 설문 조사를 통해 연구됩니다. **직원들은 직무 요구와 자원에 대한 자신의 경험을 평가**합니다. 연구자들은 이러한 평가를 바탕으로 소진과 몰입 수준을 측정하고, 요구와 자원 간의 관계를 분석합니다.",
+   "trend": "최근 연구는 JD-R 모델을 다양한 문화권과 직무에 적용하고 있습니다. **개인의 특성(예: 성격, 가치관)이 요구와 자원에 대한 반응에 미치는 영향**을 탐구하는 연구도 증가하고 있습니다. 또한, **디지털 기술이 직무 요구와 자원에 미치는 영향**에 대한 관심도 높아지고 있습니다.",
+   "practice": "매장에서는 **직원들의 업무량과 불규칙 근무 시간을 확인**해야 합니다. **상사로부터 받는 지원과 피드백의 양**을 파악하고, **성장 기회 제공 여부**를 점검해야 합니다. 개인별 평가가 아닌, 팀 전체의 상황을 파악하는 데 집중하십시오.",
+   "source": "Bakker & Demerouti (2007), Journal of Managerial Psychology 22(3)",
+   "url": "https://doi.org/10.1108/02683940710733115"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제50조 (근로시간)",
+   "summary": "근로시간은 휴게시간을 빼고 **1주 40시간, 1일 8시간**을 넘을 수 없다. 작업을 위해 사용자의 지휘·감독 아래 있는 **대기시간도 근로시간**으로 본다.",
+   "store_link": "오픈 준비, 마감 정산, 재고 조사로 남는 시간도 근로시간이다. 매장 근무표에 **오픈·마감 준비 시간이 들어가 있는지** 확인한다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제50조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Career development is the top reason people apply for and leave jobs",
+    "summary": "New studies indicate career development is a top reason for both job applications and departures. Feedback from new and departing employees aligned.",
+    "takeaway": "**Review career development programs** and proactively solicit feedback to address employee growth aspirations and reduce turnover.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/career-development-top-reason-people-apply-for-and-leave-jobs/875351/"
+   },
+   {
+    "title": "Vuori exec to lead struggling Athleta",
+    "summary": "Ashley Kechter, formerly of Vuori, is now leading Athleta, which has experienced consecutive quarters of double-digit declines.",
+    "takeaway": "**Monitor Athleta's new leadership** and strategic shifts, and ensure staff are informed and supported through any changes.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/"
+   },
+   {
+    "title": "Employers should prepare for a labor market shake-up in 2027, Indeed and Glassdoor say",
+    "summary": "Indeed and Glassdoor predict a labor market shake-up in 2027, with high turnover and a need for a better leadership pipeline as potential concerns.",
+    "takeaway": "**Review succession planning** and leadership development programs to prepare for anticipated labor market shifts.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-should-prepare-for-a-labor-market-shake-up-in-2027-report-finds/875221/"
+   }
+  ],
+  "analysis": {
+   "title": "Job Demands–Resources (JD-R) — one frame for burnout and engagement",
+   "theory": "The Job Demands–Resources (JD-R) model divides job characteristics into demands (workload, emotional labor, irregular schedules) and resources (autonomy, support, feedback, growth opportunities). Demands drive exhaustion, resources drive engagement, and resources buffer high demands. **JD-R explains burnout and engagement.**",
+   "methodology": "JD-R is primarily studied through surveys. **Employees rate their experiences with job demands and resources.** Researchers then measure burnout and engagement and analyze the relationship between demands and resources.",
+   "trend": "Recent research applies the JD-R model across different cultures and jobs. **Studies explore how individual characteristics (e.g., personality, values) influence responses to demands and resources.** There's also growing interest in **how digital technologies impact job demands and resources.**",
+   "practice": "At the store level, **check employee workloads and irregular schedules.** **Assess the level of support and feedback received from supervisors.** **Verify the availability of growth opportunities.** Focus on team-level observations, not individual employee scoring.",
+   "source": "Bakker & Demerouti (2007), Journal of Managerial Psychology 22(3)",
+   "url": "https://doi.org/10.1108/02683940710733115"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제50조 (Working hours)",
+   "summary": "Working hours, excluding breaks, may not exceed **40 hours a week and 8 hours a day**. **Waiting time** under the employer's direction counts as working hours.",
+   "store_link": "Time spent on opening prep, closing and stock counts is working time. Check that store schedules **include opening and closing prep**.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제50조"
+  }
+ }
+}
