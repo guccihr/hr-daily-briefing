@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-24",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-23T22:02:46.956Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Fox TV fired news host with facial disability because viewers mocked her appearance, lawsuit alleges",
+    "summary": "방송국 뉴스 진행자가 시청자들의 외모 비방 댓글로 인해 해고되었다는 소송이 제기되었습니다. 뉴스 담당자가 댓글에 대한 우려로 진행자를 해고한 것으로 보입니다. **외모 차별 금지** 및 **인격 보호**가 중요합니다.",
+    "takeaway": "직원들의 외모에 대한 부적절한 언급이나 차별이 발생하지 않도록 주의하고, 필요한 경우 적절한 조치를 취해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/fox-allegedly-fired-news-host-with-facial-disability-viewers-mocked-her-appearance/875488/"
+   },
+   {
+    "title": "What are ‘buffer spaces’ at work? Here’s what HR should know.",
+    "summary": "직원들이 괴롭힘에 직면했을 때, 비공식 대화와 공식 보고 사이의 중재 공간이 도움이 될 수 있다는 연구가 있습니다. **중재 역할** 및 **안전한 소통 채널** 마련이 필요합니다.",
+    "takeaway": "직원들이 불편함을 느끼거나 괴롭힘을 당했을 때, 공식적인 절차를 밟기 전에 중재 역할을 할 수 있는 채널을 마련하는 것을 고려하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/what-are-buffer-spaces-at-work-harassment/875518/"
+   },
+   {
+    "title": "AI, manager burnout and workforce mental health in 2027",
+    "summary": "2027년에는 AI가 업무를 변화시키고 관리자의 스트레스가 팀에 영향을 미치는 것으로 예상됩니다. **AI 도입 영향 평가** 및 **관리자 지원**이 필요합니다.",
+    "takeaway": "AI 도입으로 인한 업무 변화에 대한 직원들의 적응을 지원하고, 관리자의 스트레스 해소를 위한 프로그램을 마련해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/spons/ai-manager-burnout-and-workforce-mental-health-in-2027/875210/"
+   }
+  ],
+  "analysis": {
+   "title": "직무 배태성(Job Embeddedness) — 사람들은 왜 남는가",
+   "theory": "직무 몰입도는 **직원들이 조직에 머무르는 이유**를 설명하는 이론입니다. 단순히 급여나 복지가 좋아서 머무는 것이 아니라, 직무, 조직, 지역사회와의 연결고리가 강할 때 이직 가능성이 낮아집니다. **개인의 희생**이 큰 이직은 피하게 됩니다.",
+   "methodology": "연구에서는 설문조사를 통해 직무 몰입도를 측정합니다. **직무와의 적합성**, 조직과의 관계, 지역사회와의 연결 정도를 묻는 질문을 사용합니다. 이직 의사를 예측하는 변수로 활용되며, 다른 요인들과의 관계를 분석합니다.",
+   "trend": "최근 연구는 직무 몰입도에 **개인의 가치관**과 **조직 문화**의 영향을 고려합니다. 팬데믹 이후 원격 근무 확산으로 지역사회 연결의 중요성이 변화하면서, 새로운 측정 방법론이 모색되고 있습니다. **유연근무제**와 직무 몰입도의 관계도 주목받고 있습니다.",
+   "practice": "매장에서는 **직원들의 직무 만족도**를 확인하고, 지역사회 활동 참여를 독려해야 합니다. 조직 내 **네트워크 형성**을 지원하고, 직원들이 지역사회와 연결될 수 있는 기회를 제공하는 것이 중요합니다. 이직 가능성을 줄이기 위해 **직무 적합성**을 주기적으로 점검합니다.",
+   "source": "Mitchell, Holtom, Lee, Sablynski & Erez (2001), Academy of Management Journal 44(6)",
+   "url": "https://doi.org/10.5465/3069391"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제53조 (연장 근로의 제한)",
+   "summary": "당사자가 합의하면 **1주에 12시간까지** 근로시간을 연장할 수 있다. 기본 40시간에 더해 **1주 최대 52시간**이라는 뜻이다.",
+   "store_link": "세일·런칭 주간에 결원이 겹치면 특정 직원에게 연장 근로가 몰린다. Compliance 탭의 **주 52시간 임박 인원을 주 중반에 확인**하고 지원 인력으로 편성을 조정한다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제53조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Fox TV fired news host with facial disability because viewers mocked her appearance, lawsuit alleges",
+    "summary": "A news host is suing her TV station, alleging she was fired due to viewers mocking her appearance. The news director allegedly feared the comments would harm the station. **Prohibit discrimination based on appearance** and **protect dignity**.",
+    "takeaway": "Ensure no inappropriate comments or discrimination based on appearance occur among employees, and take appropriate action if needed.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/fox-allegedly-fired-news-host-with-facial-disability-viewers-mocked-her-appearance/875488/"
+   },
+   {
+    "title": "What are ‘buffer spaces’ at work? Here’s what HR should know.",
+    "summary": "Research suggests a middle ground between informal conversations and formal reporting can benefit workers facing harassment. **Mediation roles** and **safe communication channels** are needed.",
+    "takeaway": "Consider establishing channels for mediation before employees resort to formal reporting when experiencing discomfort or harassment.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/what-are-buffer-spaces-at-work-harassment/875518/"
+   },
+   {
+    "title": "AI, manager burnout and workforce mental health in 2027",
+    "summary": "By 2027, AI is expected to change work and manager burnout will impact teams. **Assess the impact of AI adoption** and **support managers**.",
+    "takeaway": "Support employees' adaptation to changes caused by AI adoption and develop programs to alleviate manager stress.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/spons/ai-manager-burnout-and-workforce-mental-health-in-2027/875210/"
+   }
+  ],
+  "analysis": {
+   "title": "Job Embeddedness — why people stay",
+   "theory": "Job embeddedness explains **why employees stay** with an organization. It suggests that strong connections to the job, organization, and community, and the perceived sacrifices of leaving, predict lower turnover. **The personal cost of leaving** is a key factor.",
+   "methodology": "Research typically uses surveys to measure job embeddedness. These surveys include questions assessing **fit with the job**, relationships with the organization, and connections to the local community. It's used as a predictor of turnover and analyzed alongside other factors.",
+   "trend": "Recent research incorporates **employee values** and **organizational culture** into the embeddedness model. Post-pandemic, the importance of community connection is evolving with remote work, prompting new measurement approaches. **The link between flexible work and embeddedness** is also being explored.",
+   "practice": "At stores, check **employee job satisfaction** and encourage participation in community activities. Support **internal networking** and provide opportunities for employees to connect with the local community. Regularly assess **job fit** to reduce turnover risk.",
+   "source": "Mitchell, Holtom, Lee, Sablynski & Erez (2001), Academy of Management Journal 44(6)",
+   "url": "https://doi.org/10.5465/3069391"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제53조 (Limit on extended work)",
+   "summary": "With the parties' agreement, working hours may be extended by **up to 12 hours a week** — a **maximum of 52 hours a week** on top of the standard 40.",
+   "store_link": "When vacancies overlap with sale or launch weeks, overtime piles onto a few people. Check **staff near the 52-hour limit mid-week** in the Compliance tab and rebalance with support staff.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제53조"
+  }
+ }
+}
