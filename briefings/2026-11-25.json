@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-25",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-24T22:05:56.213Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "**해고 후 재택근무 조정**에 대한 장애 차별 소송이 제기되었습니다. 고용주는 직원이 교육받지 못한 정책을 따르지 못했다고 주장했습니다.",
+    "takeaway": "근무 환경 조정 요청에 대한 해고 결정 시, **교육 제공 여부** 및 정책 준수 가능성을 면밀히 검토하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
+    "summary": "법원은 CSX가 직원을 해고한 이유가 FMLA 사용이 아닌 **부정행위 및 무단 결석** 때문이라고 판결했습니다. 직원은 여러 공휴일에 무단으로 휴가를 사용했습니다.",
+    "takeaway": "무단 결석에 대한 **일관된 징계 절차**를 마련하고, 직원들에게 명확하게 전달하여 법적 분쟁을 예방하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/"
+   },
+   {
+    "title": "Training is key to AI adoption — but is still hitting roadblocks",
+    "summary": "AI 도구 교육에 대한 **불균형적인 접근성**은 AI 도입을 제한하고 기업의 혁신을 저해할 수 있습니다.",
+    "takeaway": "AI 도구 교육 프로그램의 **접근성을 평가**하고, 모든 직원이 AI 활용 능력을 향상시킬 수 있도록 지원하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/"
+   }
+  ],
+  "analysis": {
+   "title": "자발적 이직의 전개 모형 — 퇴사는 '충격'에서 시작된다",
+   "theory": "**자발적 이직 모델**은 이직이 점진적인 불만족의 결과가 아닐 수 있습니다. 특정 사건, 즉 ‘충격’이 발생하면 직원들은 직업을 재평가합니다. **의사 결정 경로**는 다양하며, 새로운 일자리를 찾는 과정 없이도 퇴사를 결정할 수 있습니다.",
+   "methodology": "이 모델은 주로 **이직 경험에 대한 심층 인터뷰**를 통해 연구됩니다. 연구자들은 이직 결정의 **시점과 배경**을 파악하여 충격 사건과 의사 결정 과정을 분석합니다. 설문조사보다는 질적 연구 방식이 주로 사용됩니다.",
+   "trend": "최근 연구는 **충격 사건의 유형**과 개인의 특성이 이직 결정에 미치는 영향을 탐구합니다. 또한, **조직 문화**가 충격 사건의 영향을 완화하거나 증폭시킬 수 있는지에 대한 연구도 진행되고 있습니다.  이직 과정의 복잡성을 이해하는 데 초점을 맞추고 있습니다.",
+   "practice": "매장에서는 **직원들의 변화에 주의**해야 합니다. 갑작스러운 행동 변화나 개인적인 어려움을 겪는 직원이 있는지 확인합니다. **개방적인 소통**을 통해 직원들의 어려움을 파악하고 지원하는 것이 중요합니다.",
+   "source": "Lee & Mitchell (1994), Academy of Management Review 19(1)",
+   "url": "https://doi.org/10.5465/amr.1994.9410122008"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제54조 (휴게)",
+   "summary": "근로시간이 **4시간이면 30분 이상, 8시간이면 1시간 이상**의 휴게시간을 근로시간 도중에 줘야 한다. 휴게시간은 근로자가 **자유롭게 쓸 수 있어야** 한다.",
+   "store_link": "혼자 매장을 지키느라 쉬지 못하면 휴게를 준 것으로 보기 어렵다. 소규모 매장은 **교대 인원이 있어야 휴게가 성립**한다. Compliance 탭의 휴게시간 미준수 건수를 본다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제54조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "A former worker alleges **disability bias after termination** following a work-from-home accommodation. Uber claimed the employee failed to follow a policy she hadn't been trained on.",
+    "takeaway": "When terminating employees after accommodation requests, carefully review **training provision** and policy adherence.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
+    "summary": "A court ruled CSX fired workers due to **dishonesty and unprotected absences**, not FMLA use. One worker took leave on multiple holidays despite warnings.",
+    "takeaway": "Ensure consistent disciplinary procedures for **unauthorized absences** are in place and clearly communicated to employees.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/"
+   },
+   {
+    "title": "Training is key to AI adoption — but is still hitting roadblocks",
+    "summary": "**Uneven access to AI tool training** may limit broader uptake and stifle company transformation.",
+    "takeaway": "Assess **accessibility to AI training programs** and ensure all employees have opportunities to develop AI proficiency.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/"
+   }
+  ],
+  "analysis": {
+   "title": "The unfolding model of voluntary turnover — quitting often starts with a shock",
+   "theory": "The unfolding model of voluntary turnover suggests resignations aren't always the result of gradual dissatisfaction. A specific event—a ‘shock’—causes employees to re-evaluate their job. **Decision pathways vary**, and some resign without actively seeking alternatives. **This model challenges the idea of a linear decline.**",
+   "methodology": "This model is primarily studied through **in-depth interviews with individuals who have resigned**. Researchers analyze the **timing and context** of resignation decisions to identify the shock event and decision-making process. Qualitative research methods are generally favored.",
+   "trend": "Recent research explores the **types of shock events** and how individual characteristics influence resignation decisions. Studies also examine how **organizational culture** can mitigate or amplify the impact of these events. The focus is on understanding the complexity of the resignation process.",
+   "practice": "At the store level, **observe employee behavior changes**. Look for sudden shifts or signs of personal difficulties. **Promote open communication** to identify and support employee challenges.",
+   "source": "Lee & Mitchell (1994), Academy of Management Review 19(1)",
+   "url": "https://doi.org/10.5465/amr.1994.9410122008"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제54조 (Breaks)",
+   "summary": "Employees must get a break of **at least 30 minutes for 4 hours of work and 1 hour for 8 hours**, during working hours. They must be **free to use it as they wish**.",
+   "store_link": "A break spent minding the store alone is hard to count as a break. Small stores need **cover staff for breaks to be real**. Watch the break-violation count in the Compliance tab.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제54조"
+  }
+ }
+}
