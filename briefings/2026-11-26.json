@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-26",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-25T22:08:31.760Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Collective action rights under FLSA are not waivable without an arbitration agreement, judge rules",
+    "summary": "판결에 따르면, 근로자는 고용 계약서에 서명하기 전에 권리를 포기하는 서류에 서명하도록 강요받는 경우 집단 행동 권리를 포기할 수 없습니다. **근로자의 권리 보호**가 중요합니다.",
+    "takeaway": "입사 서류에 서명하는 신입 사원들에게 제공되는 서류가 근로자의 권리를 침해하지 않는지 확인하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/collective-action-rights-under-flsa-are-not-waivable-without-an-arbitration/875623/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "전 Uber 직원이 재택근무 편의 제공 후 해고된 후 장애 차별을 주장했습니다. **합리적인 편의 제공**에 대한 회사의 정책이 제대로 시행되고 있는지 확인해야 합니다.",
+    "takeaway": "재택근무 편의를 제공하는 직원들의 해고 사례를 검토하여 차별 혐의가 없는지 확인하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Training is key to AI adoption — but is still hitting roadblocks",
+    "summary": "AI 도구 훈련에 대한 불균형한 접근성은 AI 도입을 제한하고 기업의 변화를 저해할 수 있습니다. **AI 교육 기회**를 모든 직원에게 공정하게 제공해야 합니다.",
+    "takeaway": "AI 도구 사용 교육 프로그램이 모든 직원에게 공정하게 제공되는지 확인하고, 교육 격차를 해소하기 위한 노력을 기울이십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/"
+   }
+  ],
+  "analysis": {
+   "title": "신규 입사자 조직사회화 — 초기 적응이 근속을 좌우한다",
+   "theory": "신규 입사자의 조직 사회화 적응은 **역할 명확성**, **자기 효능감**, **사회적 수용**과 관련됩니다. 입사 초기 정보 탐색 행동은 이후 성과, 만족도, 조직 몰입, 이직률에 영향을 미칩니다. 이는 입사자가 새로운 환경에 얼마나 잘 적응하는지가 중요함을 의미합니다.",
+   "methodology": "연구에서는 **메타 분석**을 통해 여러 연구 결과를 종합했습니다. 역할 명확성, 자기 효능감, 사회적 수용을 측정하기 위해 설문 조사와 인터뷰를 사용합니다. **성과, 만족도, 몰입, 이직률**은 객관적인 기록과 주관적인 평가를 통해 측정됩니다.",
+   "trend": "최근 연구는 **온라인 온보딩**과 **멘토링 프로그램**의 효과에 주목하고 있습니다. 또한, **다양한 배경**을 가진 신규 입사자의 적응 과정에 대한 연구가 증가하고 있습니다. 디지털 환경과 다양성 증가에 따른 적응 전략의 중요성이 강조됩니다.",
+   "practice": "매장에서는 신규 입사자에게 **업무 지시가 명확한지** 확인해야 합니다. **자신감**을 갖도록 격려하고, **동료와의 관계 형성**을 지원해야 합니다. 신규 입사자의 **정보 탐색 행동**을 관찰하고 필요한 정보를 제공해야 합니다.",
+   "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
+   "url": "https://doi.org/10.1037/0021-9010.92.3.707"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제55조 (휴일)",
+   "summary": "사용자는 근로자에게 **1주에 평균 1회 이상의 유급휴일**을 보장해야 한다. 대통령령으로 정하는 **공휴일도 유급으로 보장**하되, 근로자대표와 서면 합의하면 다른 근로일로 대체할 수 있다.",
+   "store_link": "매장은 주말·공휴일이 가장 바쁘다. 공휴일 근무를 다른 날로 바꿨다면 **대체 휴일이 실제로 부여됐는지** 근무표에서 확인한다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제55조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Collective action rights under FLSA are not waivable without an arbitration agreement, judge rules",
+    "summary": "A ruling states that workers cannot waive collective action rights if forced to sign away those rights before being hired. **Protecting worker rights** is crucial.",
+    "takeaway": "Review onboarding documents to ensure they do not compromise employee rights.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/collective-action-rights-under-flsa-are-not-waivable-without-an-arbitration/875623/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "A former Uber worker alleges disability bias after termination following a work-from-home accommodation. **Ensure proper implementation of reasonable accommodation policies.**",
+    "takeaway": "Review terminations involving work-from-home accommodations to identify potential discrimination risks.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Training is key to AI adoption — but is still hitting roadblocks",
+    "summary": "Uneven access to AI tool training may limit adoption and stifle transformation. **Ensure equitable access to AI training opportunities.**",
+    "takeaway": "Verify that AI training programs are accessible to all employees and address any skill gaps.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/training-is-key-to-ai-adoption-but-is-still-hitting-roadblocks/875542/"
+   }
+  ],
+  "analysis": {
+   "title": "Newcomer adjustment during organizational socialization",
+   "theory": "Newcomer adjustment during organizational socialization is linked to **role clarity**, **self-efficacy**, and **social acceptance**. Early information-seeking behavior influences later performance, satisfaction, commitment, and turnover. This means a newcomer's ability to adapt is crucial.",
+   "methodology": "Research uses **meta-analysis** to synthesize findings from multiple studies. **Role clarity, self-efficacy, and social acceptance** are measured using surveys and interviews. **Performance, satisfaction, commitment, and turnover** are assessed through objective records and subjective evaluations.",
+   "trend": "Recent research focuses on the effectiveness of **online onboarding** and **mentoring programs**. There's also increased study of how newcomers from **diverse backgrounds** adapt. The importance of adaptation strategies in digital environments and with diversity is highlighted.",
+   "practice": "At stores, confirm **work instructions are clear**. Encourage **confidence** and support **relationship building with colleagues**. Observe **information-seeking behavior** and provide necessary information.",
+   "source": "Bauer, Bodner, Erdogan, Truxillo & Tucker (2007), Journal of Applied Psychology 92(3)",
+   "url": "https://doi.org/10.1037/0021-9010.92.3.707"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제55조 (Holidays)",
+   "summary": "Employers must guarantee **at least one paid holiday a week on average**. **Public holidays** set by decree are also paid, and may be swapped for another working day by written agreement with the employee representative.",
+   "store_link": "Weekends and public holidays are a store's busiest days. Where holiday work was swapped, check the schedule to confirm **the substitute day off was actually given**.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제55조"
+  }
+ }
+}
