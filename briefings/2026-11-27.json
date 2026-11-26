@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-27",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-26T22:03:33.158Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Employers expect new hires to have a ‘willingness to learn’",
+    "summary": "기업들은 기존 직원 교육과 더불어 새로운 분야의 전문성을 가진 신규 채용을 중요하게 생각합니다. **새로운 분야의 전문성**을 갖춘 인재를 찾는 기업의 비율이 3분의 1 이상입니다. **기존 직원 역량 강화**도 중요합니다.",
+    "takeaway": "신규 채용 시 지원자의 **새로운 분야 전문성**과 기존 직원 **역량 강화** 프로그램 운영 현황을 점검해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-expect-new-hires-to-have-a-willingness-to-learn/875747/"
+   },
+   {
+    "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
+    "summary": "코흘스는 3분기에 긍정적인 판매 증가를 보였으며, 특히 자체 브랜드 제품 판매와 매장 개선 덕분에 수익이 크게 증가했습니다. **자체 브랜드 제품 판매**와 **매장 개선**이 성장에 기여했습니다.",
+    "takeaway": "매장 직원들의 **자체 브랜드 제품**에 대한 이해도를 높이고, **매장 개선** 사항을 공유하여 직원들의 참여를 유도해야 합니다.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "전 Uber 직원, 재택근무 편의 제공 후 해고된 것에 대해 장애 차별을 주장하며 소송을 제기했습니다. Uber는 교육받지 못한 정책을 위반했다는 이유로 해고했습니다. **재택근무 편의 제공**과 **정책 교육**의 중요성을 강조합니다.",
+    "takeaway": "재택근무 편의 제공 시, **정책 교육**을 병행하고, 해고 사유가 **정책 위반**인지 면밀히 검토해야 합니다.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   }
+  ],
+  "analysis": {
+   "title": "서비스–수익 사슬 — 직원 만족이 고객 충성과 수익으로 이어지는 경로",
+   "theory": "이론은 **직원 만족**이 고객 만족을 통해 **수익 증대**로 이어진다는 핵심 아이디어입니다. 고객 충성도는 고객 만족과 서비스 가치에서 비롯되며, 이는 다시 직원들의 만족도와 생산성에 달려있습니다. 궁극적으로, 내부 서비스 품질이 모든 것을 연결합니다.",
+   "methodology": "이 모델은 주로 **설문 조사**와 **데이터 분석**을 통해 측정됩니다. 고객 만족도, 직원 만족도, 그리고 재무적 성과 지표를 연결하여 분석합니다. 과거에는 주로 서비스 산업에 초점을 맞추었지만, 현재는 다양한 산업 분야로 확장되고 있습니다.",
+   "trend": "최근 연구는 **디지털 기술**의 영향과 **개인화된 서비스**의 중요성을 강조합니다. 직원 경험과 고객 경험을 연결하는 방식에 대한 관심이 높아지고 있습니다. 또한, 지속가능성과 사회적 책임이 서비스 가치에 미치는 영향도 연구되고 있습니다.",
+   "practice": "매장에서는 **직원 지원**과 **내부 커뮤니케이션**을 점검해야 합니다. 고객 응대 과정에서 직원의 어려움을 파악하고, 개선 방안을 모색해야 합니다. **팀워크**와 **긍정적인 업무 환경**을 조성하는 것이 중요합니다.",
+   "source": "Heskett, Jones, Loveman, Sasser & Schlesinger, Harvard Business Review",
+   "url": "https://hbr.org/2008/07/putting-the-service-profit-chain-to-work"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제56조 (연장·야간 및 휴일 근로)",
+   "summary": "연장근로에는 **통상임금의 50% 이상**을 더 줘야 한다. 휴일근로는 **8시간 이내 50%, 8시간 초과분 100%** 가산이고, 밤 10시부터 오전 6시 사이 야간근로에도 50%를 더한다.",
+   "store_link": "세일 기간의 연장 영업과 휴일 근무는 가산 대상이다. **휴일근무 건수가 많은 매장**은 인건비와 피로가 함께 쌓이므로 증원 검토 대상으로 본다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제56조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Employers expect new hires to have a ‘willingness to learn’",
+    "summary": "Employers are prioritizing both upskilling existing employees and hiring new employees with expertise in new areas. Over a third of organizations are seeking candidates with **expertise in new areas**. **Upskilling existing employees** is also important.",
+    "takeaway": "When hiring, check candidates' **expertise in new areas** and review the operation of **upskilling programs** for existing employees.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-expect-new-hires-to-have-a-willingness-to-learn/875747/"
+   },
+   {
+    "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
+    "summary": "Kohl’s posted positive comps in Q3, with profits soaring thanks to strong private label sales and store improvements. **Private label sales** and **store improvements** contributed to the growth.",
+    "takeaway": "Enhance store associates' understanding of **private label products** and encourage their participation by sharing **store improvement** initiatives.",
+    "source": "Retail Dive",
+    "url": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "A former Uber worker alleges disability bias after termination following a work-from-home accommodation. Uber relied on her not following a policy she’d never been trained on. Highlights the importance of **work-from-home accommodations** and **policy training**.",
+    "takeaway": "When providing **work-from-home accommodations**, ensure **policy training** is provided and carefully review termination reasons related to **policy violations**.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   }
+  ],
+  "analysis": {
+   "title": "The service-profit chain — from employee satisfaction to customer loyalty and profit",
+   "theory": "The theory posits that **employee satisfaction** leads to **customer satisfaction**, which in turn drives **profitability**. Customer loyalty stems from satisfaction and perceived service value, which depends on satisfied, loyal, and productive employees. Ultimately, internal service quality connects everything.",
+   "methodology": "This model is primarily measured through **surveys** and **data analysis**. Customer satisfaction, employee satisfaction, and financial performance indicators are linked and analyzed. Initially focused on service industries, research now extends to diverse sectors.",
+   "trend": "Recent research emphasizes the impact of **digital technology** and the importance of **personalized service**. There's increased focus on connecting employee experience with customer experience. The influence of sustainability and social responsibility on service value is also being explored.",
+   "practice": "At the store level, check **employee support** and **internal communication**. Identify employee challenges in customer interactions and seek improvements. Fostering **teamwork** and a **positive work environment** is crucial.",
+   "source": "Heskett, Jones, Loveman, Sasser & Schlesinger, Harvard Business Review",
+   "url": "https://hbr.org/2008/07/putting-the-service-profit-chain-to-work"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제56조 (Extended, night and holiday work)",
+   "summary": "Extended work earns **at least 50% extra** on ordinary wages. Holiday work earns **50% extra up to 8 hours and 100% beyond**, and night work between 10 pm and 6 am earns 50% extra.",
+   "store_link": "Extended hours during sales and holiday shifts all carry premiums. Stores with **many holiday shifts** build up both labor cost and fatigue — consider them for extra headcount.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제56조"
+  }
+ }
+}
