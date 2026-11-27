@@ -1,0 +1,89 @@
+{
+ "date": "2026-11-28",
+ "generated": {
+  "model": "gemma3:12b (GitHub Actions)",
+  "at": "2026-11-27T22:06:33.971Z"
+ },
+ "ko": {
+  "news": [
+   {
+    "title": "Employers expect new hires to have a ‘willingness to learn’",
+    "summary": "기업들은 새로운 분야의 전문성을 가진 인재를 적극적으로 찾고 있으며, 기존 직원들의 역량 강화도 중요하게 생각합니다. **새로운 기술 분야 전문성** **기존 직원 역량 강화** **채용 기준 재검토**",
+    "takeaway": "신규 채용 시 '배우려는 의지' 외에 특정 기술 분야 전문성을 갖춘 지원자를 고려하고, 기존 직원들의 기술 향상 프로그램을 점검하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-expect-new-hires-to-have-a-willingness-to-learn/875747/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "전직 Uber 직원에게 재택근무 편의를 제공한 후, 회사 정책 미준수 이유로 해고한 사건이 발생했습니다. **근무 환경 변경 후 해고** **정책 교육 미흡** **해고 사유 명확성**",
+    "takeaway": "근무 조건 변경 시, 관련 정책 교육을 철저히 실시하고 해고 사유가 명확하게 제시되었는지 확인하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
+    "summary": "CSX는 직원들의 무단 결근과 부정 행위로 인해 해고 조치를 취했으며, FMLA 사용이 해고의 원인이 아니었습니다. **무단 결근 관리** **부정 행위 처리** **FMLA 남용 방지**",
+    "takeaway": "무단 결근 및 부정 행위에 대한 명확한 정책을 시행하고, FMLA 남용 방지를 위한 교육을 실시하십시오.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/"
+   }
+  ],
+  "analysis": {
+   "title": "좋은 일자리 전략 — 매장 인력에 투자하는 리테일이 이기는 이유",
+   "theory": "**좋은 일자리 전략**은 소매업체가 직원 투자로 비용 절감과 서비스 향상을 동시에 달성할 수 있다는 핵심 아이디어입니다. 직원들에게 안정적인 근무 일정, 교육, 적절한 인력 수준을 제공하고, 운영을 단순화하고 교차 훈련을 통해 효율성을 높입니다. **직원을 비용으로만 보는 대신** 자산으로 인식하는 것입니다.",
+   "methodology": "연구는 주로 성공적인 소매업체의 사례 연구를 통해 진행됩니다. **비용 데이터**와 **고객 만족도 조사**를 비교 분석하여 좋은 일자리 전략의 효과를 측정합니다.  수익성, 직원 이직률, 고객 유지율 등을 지표로 사용합니다.",
+   "trend": "최근 연구는 좋은 일자리 전략을 **디지털 전환**과 결합하는 방안에 초점을 맞추고 있습니다.  **기술 도입**이 직원 역할에 미치는 영향과, 직원 교육 및 지원의 중요성을 강조합니다.  또한, **다양성과 포용성**을 고려한 좋은 일자리 전략의 필요성이 제기되고 있습니다.",
+   "practice": "매장에서는 **직원 근무 일정의 안정성**을 확인합니다. **교차 훈련 프로그램**의 운영 현황과 **적정 인력 수준**을 점검합니다.  직원들의 피드백을 수렴하여 개선점을 파악합니다.",
+   "source": "Zeynep Ton (2012), Harvard Business Review",
+   "url": "https://hbr.org/2012/01/why-good-jobs-are-good-for-retailers"
+  },
+  "law": {
+   "statute": "근로기준법",
+   "article": "제60조 (연차 유급휴가)",
+   "summary": "1년간 **80% 이상 출근하면 15일**의 유급휴가를 준다. 근속 1년 미만이면 1개월 개근할 때마다 1일. 3년 이상 근속하면 2년마다 1일씩 늘고 **한도는 25일**이다.",
+   "store_link": "세일·성수기에는 연차가 밀리기 쉽다. Compliance 탭에서 **매장별 연차 사용률**을 분기마다 확인하고 성수기 앞뒤로 사용 계획을 잡는다.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제60조"
+  }
+ },
+ "en": {
+  "news": [
+   {
+    "title": "Employers expect new hires to have a ‘willingness to learn’",
+    "summary": "Employers are actively seeking candidates with expertise in new areas and also prioritize upskilling existing employees. **Specialized skills in new technologies** **Upskilling existing employees** **Review hiring criteria**",
+    "takeaway": "Consider candidates with specialized skills in new technologies during hiring and review existing employee upskilling programs.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/employers-expect-new-hires-to-have-a-willingness-to-learn/875747/"
+   },
+   {
+    "title": "Former Uber worker alleges disability bias after termination following work-from-home accommodation",
+    "summary": "A former Uber employee was fired after being terminated following a work-from-home accommodation, allegedly due to non-compliance with company policy. **Termination after accommodation** **Lack of policy training** **Clarity of termination reasons**",
+    "takeaway": "Ensure thorough policy training when changing work conditions and verify that termination reasons are clearly presented.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/former-uber-worker-disability-bias-termination-work-from-home/875617/"
+   },
+   {
+    "title": "Dishonesty and unprotected absences, not FMLA use, caused CSX to fire workers, court rules",
+    "summary": "CSX fired workers due to dishonesty and unprotected absences, not FMLA use. **Managing unexcused absences** **Handling dishonesty** **Preventing FMLA abuse**",
+    "takeaway": "Implement clear policies for unexcused absences and dishonesty, and conduct training to prevent FMLA abuse.",
+    "source": "HR Dive",
+    "url": "https://www.hrdive.com/news/dishonesty-and-unprotected-absences-not-fmla-use-caused-csx-to-fire-worke/875614/"
+   }
+  ],
+  "analysis": {
+   "title": "The Good Jobs Strategy — why investing in store staff pays off for retailers",
+   "theory": "The Good Jobs Strategy posits that retailers can achieve both cost reduction and service improvement by investing in their store employees. It involves providing stable schedules, training, and adequate staffing, alongside operational choices like simplification and cross-training. **It reframes employees as assets**, not just a cost to minimize.",
+   "methodology": "Research primarily uses case studies of successful retailers. It analyzes **cost data** and **customer satisfaction surveys** to measure the impact of the Good Jobs Strategy. Metrics include profitability, employee turnover, and customer retention.",
+   "trend": "Recent research focuses on integrating the Good Jobs Strategy with **digital transformation**. It emphasizes the impact of **technology adoption** on employee roles and the importance of training and support.  There's also a growing focus on **diversity and inclusion** within this strategy.",
+   "practice": "At the store level, check **stability of employee schedules**. Review the operation of **cross-training programs**. Assess **adequate staffing levels** and gather employee feedback for improvements.",
+   "source": "Zeynep Ton (2012), Harvard Business Review",
+   "url": "https://hbr.org/2012/01/why-good-jobs-are-good-for-retailers"
+  },
+  "law": {
+   "statute": "근로기준법 (Labor Standards Act)",
+   "article": "제60조 (Annual paid leave)",
+   "summary": "An employee who attends **80% or more of the year gets 15 days** of paid leave. Under one year: one day per month of full attendance. After three years, one extra day every two years, **capped at 25 days**.",
+   "store_link": "Leave gets pushed back in peak season. Check **leave usage by store** in the Compliance tab each quarter and plan leave around peak weeks.",
+   "url": "https://www.law.go.kr/법령/근로기준법/제60조"
+  }
+ }
+}
